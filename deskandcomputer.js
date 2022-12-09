@@ -4,7 +4,7 @@ objects = [];
 
 function preload()
 {
-    img = loadImage('deskandComputer.jpg');
+    img = loadImage('deskandComputers.jpg');
 }
 
 
